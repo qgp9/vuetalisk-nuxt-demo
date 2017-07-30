@@ -1,0 +1,1 @@
+# vuetalisk-nuxt-demo
