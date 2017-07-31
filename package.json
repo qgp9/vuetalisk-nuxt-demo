@@ -13,7 +13,7 @@
   },
   "scripts": {
     "dev": "nuxt",
-    "build": "npx vuetalisk build -a",
+    "build": "./node_modules/vuetalisk/bin/vuetalisk build -a",
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
