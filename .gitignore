@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Vuetalisk build files
+.site.json
+.config.js
+.store.json
+yarn.lock
+
+# dev
+.dev
+.netlify

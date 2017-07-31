@@ -1,0 +1,6 @@
+sidebar:
+  order: ['Home', 'Blog', 'About']
+  menu:
+    Home: '/'
+    Blog: '/blog/list'
+    About: '/about'
