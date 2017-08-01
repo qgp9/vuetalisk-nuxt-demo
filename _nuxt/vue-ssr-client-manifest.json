@@ -1,27 +1,27 @@
 {
-  "publicPath": "vuetalisk-nuxt-demo/_nuxt/",
+  "publicPath": "/vuetalisk-nuxt-demo/_nuxt/",
   "all": [
     "1.nuxt.bundle.c84b684cd6075cbd339a.js.map",
     "0.nuxt.bundle.d77962d573cbbc8390df.js",
     "2.nuxt.bundle.502d9f83f0c67b4a7dfa.js",
     "3.nuxt.bundle.25f5ee7e60cfee6584e6.js",
     "vendor.bundle.812b79375eb415107cf0.js",
-    "nuxt.bundle.b9d7666f38af516962e7.js",
-    "manifest.3bc1a48ecfd998fb9ee0.js",
+    "nuxt.bundle.0ccb025487abcd4a51de.js",
+    "manifest.bb7a2e8efd4c5e77e0ad.js",
     "0.nuxt.bundle.d77962d573cbbc8390df.js.map",
     "1.nuxt.bundle.c84b684cd6075cbd339a.js",
     "2.nuxt.bundle.502d9f83f0c67b4a7dfa.js.map",
     "3.nuxt.bundle.25f5ee7e60cfee6584e6.js.map",
     "vendor.bundle.812b79375eb415107cf0.js.map",
-    "nuxt.bundle.b9d7666f38af516962e7.js.map",
-    "manifest.3bc1a48ecfd998fb9ee0.js.map",
+    "nuxt.bundle.0ccb025487abcd4a51de.js.map",
+    "manifest.bb7a2e8efd4c5e77e0ad.js.map",
     "index.ssr.html",
     "index.spa.html"
   ],
   "initial": [
-    "manifest.3bc1a48ecfd998fb9ee0.js",
+    "manifest.bb7a2e8efd4c5e77e0ad.js",
     "vendor.bundle.812b79375eb415107cf0.js",
-    "nuxt.bundle.b9d7666f38af516962e7.js"
+    "nuxt.bundle.0ccb025487abcd4a51de.js"
   ],
   "async": [
     "0.nuxt.bundle.d77962d573cbbc8390df.js",
