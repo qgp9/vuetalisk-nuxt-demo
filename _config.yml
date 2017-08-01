@@ -1,8 +1,0 @@
-strategy: nuxt
-
-collections:
-  blog:
-    type: page
-    path: _blog
-    permalink: /blog/:year/:month/:day/:slug
-    list: /blog/list
